@@ -1,6 +1,6 @@
 spring:
   profile:
-  said: DEFAULT SERVER
+  said: 
     name1: "name1"
     name2: "name2"
 ---
