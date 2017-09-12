@@ -1,7 +1,8 @@
 spring:
-  profile :
-  said : DEFAULT SERVER
-  
+  profile:
+  said: DEFAULT SERVER
+    name1: "name1"
+    name2: "name2"
 ---
 
 spring:
