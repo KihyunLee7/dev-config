@@ -21,4 +21,4 @@ greeting: :DEV - Hello"
 
 spring:
   profiles : local
-greeting: "LOCAL - Hello COPY"  
+greeting: "LOCAL - Hello"  
