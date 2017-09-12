@@ -1,5 +1,3 @@
 spring:
   profile:
-  said: 
-    name1: "name1"
-    name2: "name2"
+  said: "test1"
