@@ -1,0 +1,22 @@
+spring:
+  profile :
+  said : DEFAULT SERVER
+  
+---
+
+spring:
+  profile : dev
+  said : DEV SERVER
+
+---
+
+spring:
+  profile : real
+  said : REAL SERVER
+
+---
+
+spring:
+  profile : beta
+  said : BETA SERVER
+    
