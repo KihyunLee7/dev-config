@@ -6,19 +6,19 @@ greeting: "Hello"
 ---
 
 spring:
-  profiles : stage
+  profiles: stage
 greeting: "STAGE - Hello"  
 
 
 ---
 
 spring:
-  profiles : dev
+  profiles: dev
 greeting: :DEV - Hello"  
 
 
 ---
 
 spring:
-  profiles : local
+  profiles: local
 greeting: "LOCAL - Hello"  
